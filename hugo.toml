@@ -1,0 +1,4 @@
+baseURL = 'https://one.duoyu.app/'
+languageCode = 'zh-cn'
+title = '多鱼导航'
+theme = 'webstack-hugo'
