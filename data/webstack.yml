@@ -23,6 +23,16 @@
           logo: ./assets/images/logos/olevod.webp
           url: https://www.olevod.com/
           description: 在线免费影视
+        - title: 素白白影视
+          logo: ./assets/images/logos/subaibai.png
+          url: https://www.subaibaiys.com/
+          description: 在线免费影视，高清
+    - term: 网络工具
+      links:
+        - title: 多鱼加速器
+          logo: ./assets/images/logos/duoyu.png
+          url: https://duoyu.app/?t=7sPcMq3lHbTHm
+          description: 一款安全、快速、稳定的代理软件
     - term: 国际大厂
       links:
         - title: Google
@@ -49,9 +59,23 @@
           logo: ./assets/images/logos/facebook.png
           url: https://www.facebook.com/
           description: 脸书 - 全球领先的社交连接与社区构建平台
-    - term: AI
+    - term: AI 工具
       links:
         - title: ChatGPT
           logo: ./assets/images/logos/chatgpt.svg
           url: https://www.chatgpt.com/
           description: 基于GPT-3.5、GPT-4、GPT-4o架构的大型语言模型，对话式AI助理
+        - title: Claude
+          logo: ./assets/images/logos/Claude.webp
+          url: https://claude.ai/
+          description: Claude 是 Anthropic 打造的下一代人工智能助手
+    - term: 外贸平台
+      links:
+        - title: Amazon
+          logo: ./assets/images/logos/Amazon.webp
+          url: https://www.amazon.com/
+          description: 亚马逊 - 全球最大的互联网线上零售商之一
+        - title: Temu
+          logo: ./assets/images/logos/temu.webp
+          url: https://www.temu.com/
+          description: 拼多多海外版
