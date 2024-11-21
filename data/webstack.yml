@@ -69,7 +69,7 @@
           description: 谷歌 - 全球最强大的搜索引擎与信息服务提供商
         - title: Youtube
           logo: ./assets/images/logos/youtube.png
-          url: https://www.netflix.com/
+          url: https://www.youtube.com/
           description: 油管 - 全球最大的视频分享、学习平台
         - title: Netflix
           logo: ./assets/images/logos/netflix.png
