@@ -33,6 +33,34 @@
           logo: ./assets/images/logos/duoyu.png
           url: https://duoyu.app/?t=7sPcMq3lHbTHm
           description: 一款安全、快速、稳定的代理软件
+    - term: AI 工具
+      links:
+        - title: ChatGPT
+          logo: ./assets/images/logos/chatgpt.svg
+          url: https://www.chatgpt.com/
+          description: 基于GPT-3.5、GPT-4、GPT-4o架构的大型语言模型，对话式AI助理
+        - title: Gemini
+          logo: ./assets/images/logos/Gemini.png
+          url: https://gemini.google.com/app
+          description: Gemini是由Google开发的生成式人工智能聊天机器人
+        - title: Claude
+          logo: ./assets/images/logos/Claude.webp
+          url: https://claude.ai/
+          description: Claude 是 Anthropic 打造的下一代人工智能助手
+    - term: 我的工具
+      links:
+        - title: Notion
+          logo: ./assets/images/logos/notion.png
+          url: https://www.notion.so/
+          description: 一款集成了笔记、知识库、数据表格、看板、日历等多种能力于一体的
+        - title: Google表格
+          logo: ./assets/images/logos/google-sheet.png
+          url: https://docs.google.com/spreadsheets/
+          description: Google云文档-表格
+        - title: OneDrive
+          logo: ./assets/images/logos/OneDrive.png
+          url: https://onedrive.live.com/
+          description: 微软公司推出的网盘
     - term: 国际大厂
       links:
         - title: Google
@@ -59,16 +87,6 @@
           logo: ./assets/images/logos/facebook.png
           url: https://www.facebook.com/
           description: 脸书 - 全球领先的社交连接与社区构建平台
-    - term: AI 工具
-      links:
-        - title: ChatGPT
-          logo: ./assets/images/logos/chatgpt.svg
-          url: https://www.chatgpt.com/
-          description: 基于GPT-3.5、GPT-4、GPT-4o架构的大型语言模型，对话式AI助理
-        - title: Claude
-          logo: ./assets/images/logos/Claude.webp
-          url: https://claude.ai/
-          description: Claude 是 Anthropic 打造的下一代人工智能助手
     - term: 外贸平台
       links:
         - title: Amazon
