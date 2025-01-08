@@ -11,6 +11,10 @@
           logo: ./assets/images/logos/movie.png
           url: https://leisidianying.com/
           description: 电影推荐
+        - title: 4k影视
+          logo: ./assets/images/logos/4kmv.png
+          url: https://www.4kvm.org/
+          description: 4K免费高清电影、电视剧
         - title: 2077影视
           logo: ./assets/images/logos/movie.png
           url: https://www.m2077.com/
@@ -23,10 +27,6 @@
           logo: ./assets/images/logos/olevod.webp
           url: https://www.olevod.com/
           description: 在线免费影视
-        - title: 素白白影视
-          logo: ./assets/images/logos/subaibai.png
-          url: https://www.subaibaiys.com/
-          description: 在线免费影视，高清
     - term: 网络工具
       links:
         - title: 多鱼加速器
