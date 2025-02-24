@@ -47,6 +47,14 @@
           logo: ./assets/images/logos/Claude.webp
           url: https://claude.ai/
           description: Claude 是 Anthropic 打造的下一代人工智能助手
+        - title: Grok
+          logo: ./assets/images/logos/grok.png
+          url: https://grok.com/
+          description: Grok是xAI基于大型语言模型开发的生成式人工智能聊天机器人，类似于ChatGPT。它能够实时回答用户的问题，并利用X社交媒体平台的数据进行回应。
+        - title: DeepSeek
+          logo: ./assets/images/logos/deepseek.png
+          url: https://chat.deepseek.com/
+          description: 深度求索（DeepSeek）公司开发的智能助手
     - term: 我的工具
       links:
         - title: Notion
@@ -61,6 +69,27 @@
           logo: ./assets/images/logos/OneDrive.png
           url: https://onedrive.live.com/
           description: 微软公司推出的网盘
+        - title: 世界时间
+          logo: ./assets/images/logos/time-now.png
+          url: https://cn.piliapp.com/time-now/
+          description: 线上即时显示各地标准时间
+        - title: Floorplanner
+          logo: ./assets/images/logos/floorplanner.png
+          url: https://floorplanner.com/
+          description: 允许用户创建2D和3D平面图，并且可以摆放家具、改变墙壁和窗户位置，非常适合简单的室内布局设计
+        - title: cobalt
+          logo: ./assets/images/logos/cobalt.png
+          url: https://cobalt.tools/
+          description: 用来从Youtube、TT、Instagram等网站下载音、视频
+    - term: 玩玩
+      links:
+        - title: Moodist 白噪音
+          logo: ./assets/images/logos/moodist.png
+          url: https://moodist.app/
+          description: Moodist 是一款免费、开源的环境音效生成器，拥有 78 种精心挑选的音效。
+        - title: 电车还是油车？
+          url: https://car-choice.pages.dev/
+          description: 购车推荐系统，电车油车怎么选
     - term: 国际大厂
       links:
         - title: Google
