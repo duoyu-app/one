@@ -27,6 +27,10 @@
           logo: ./assets/images/logos/olevod.webp
           url: https://www.olevod.com/
           description: 在线免费影视
+        - title: 影视TV
+          logo: ./assets/images/logos/yingshi.png
+          url: https://www.yingshi.tv/
+          description: 影视TV - 海量高清视频免费在线观看
     - term: 网络工具
       links:
         - title: 多鱼加速器
@@ -81,6 +85,16 @@
           logo: ./assets/images/logos/cobalt.png
           url: https://cobalt.tools/
           description: 用来从Youtube、TT、Instagram等网站下载音、视频
+        - title: Excalidraw
+          logo: ./assets/images/logos/excalidraw.png
+          url: https://excalidraw.com/
+          description: 白板工具、画流程图、画架构图
+    - term: 资料
+      links:
+        - title: z-library
+          logo: ./assets/images/logos/z-library.png
+          url: https://z-library.sk/
+          description: 免费电子书
     - term: 玩玩
       links:
         - title: Moodist 白噪音
@@ -90,6 +104,10 @@
         - title: 电车还是油车？
           url: https://car-choice.pages.dev/
           description: 购车推荐系统，电车油车怎么选
+        - title: vectorcraftr
+          logo: ./assets/images/logos/vectorcraftr.png
+          url: https://vectorcraftr.com/
+          description: 好看的插画，还免费
     - term: 国际大厂
       links:
         - title: Google
